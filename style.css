@@ -1,4 +1,13 @@
-h1{
+.titulo-principal{
+  padding-left: 30px;
+}
+
+.principal{
+  background-color: #cccccc;
+padding: 30px;
+}
+
+.titulo-centralizado{
   text-align: center;
 }
 
@@ -17,8 +26,3 @@ color: indigo;
 #banner{
   width: 100%;
 }
-
-h2{
-  text-align: center; 
-}
-e
